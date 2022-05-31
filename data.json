@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "vercel/swr",
+    "stargazers_count": 22559,
+    "open_issues_count": 82,
+    "forks_count": 854
+  },
+  {
+    "full_name": "vercel/next.js",
+    "stargazers_count": 87393,
+    "open_issues_count": 1182,
+    "forks_count": 18561
+  },
+  {
     "full_name": "remix-run/remix",
     "stargazers_count": 16864,
     "open_issues_count": 316,
