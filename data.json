@@ -1,56 +1,56 @@
 [
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 12121,
-    "open_issues_count": 86,
+    "stargazers_count": 12139,
+    "open_issues_count": 71,
     "forks_count": 613
   },
   {
     "full_name": "tannerlinsley/react-query",
-    "stargazers_count": 27529,
+    "stargazers_count": 27545,
     "open_issues_count": 29,
-    "forks_count": 1579
+    "forks_count": 1580
   },
   {
     "full_name": "vercel/swr",
-    "stargazers_count": 22559,
-    "open_issues_count": 82,
+    "stargazers_count": 22574,
+    "open_issues_count": 81,
     "forks_count": 854
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 87393,
-    "open_issues_count": 1182,
-    "forks_count": 18561
+    "stargazers_count": 87426,
+    "open_issues_count": 1184,
+    "forks_count": 18571
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 16864,
-    "open_issues_count": 316,
+    "stargazers_count": 16888,
+    "open_issues_count": 315,
     "forks_count": 1317
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 26469,
-    "open_issues_count": 94,
-    "forks_count": 2322
+    "stargazers_count": 26497,
+    "open_issues_count": 92,
+    "forks_count": 2325
   },
   {
     "full_name": "modulz/stitches",
-    "stargazers_count": 5591,
+    "stargazers_count": 5597,
     "open_issues_count": 100,
     "forks_count": 158
   },
   {
     "full_name": "seek-oss/vanilla-extract",
-    "stargazers_count": 5389,
-    "open_issues_count": 30,
+    "stargazers_count": 5395,
+    "open_issues_count": 31,
     "forks_count": 137
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 57336,
-    "open_issues_count": 18,
-    "forks_count": 2854
+    "stargazers_count": 57358,
+    "open_issues_count": 17,
+    "forks_count": 2852
   }
 ]
