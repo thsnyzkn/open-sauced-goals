@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "lucacasonato/fresh",
+    "stargazers_count": 2008,
+    "open_issues_count": 22,
+    "forks_count": 69
+  },
+  {
+    "full_name": "foochu/bgweb-terminal",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Temzasse/react-modal-sheet",
     "stargazers_count": 289,
     "open_issues_count": 12,
@@ -13,15 +25,15 @@
   },
   {
     "full_name": "aidenybai/million",
-    "stargazers_count": 2227,
-    "open_issues_count": 2,
-    "forks_count": 67
+    "stargazers_count": 2403,
+    "open_issues_count": 6,
+    "forks_count": 70
   },
   {
     "full_name": "compiler-explorer/compiler-explorer",
-    "stargazers_count": 10879,
-    "open_issues_count": 506,
-    "forks_count": 1247
+    "stargazers_count": 10891,
+    "open_issues_count": 507,
+    "forks_count": 1252
   },
   {
     "full_name": "risanto/cooken",
@@ -31,37 +43,37 @@
   },
   {
     "full_name": "ivanvorobei/SwiftUI",
-    "stargazers_count": 3881,
+    "stargazers_count": 3883,
     "open_issues_count": 3,
-    "forks_count": 409
+    "forks_count": 410
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 344,
+    "stargazers_count": 346,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "githubocto/flat-ui",
-    "stargazers_count": 336,
-    "open_issues_count": 2,
+    "stargazers_count": 337,
+    "open_issues_count": 3,
     "forks_count": 14
   },
   {
     "full_name": "facebook/lexical",
-    "stargazers_count": 9524,
-    "open_issues_count": 173,
-    "forks_count": 313
+    "stargazers_count": 9550,
+    "open_issues_count": 172,
+    "forks_count": 318
   },
   {
     "full_name": "twitterdev/twitter-api-typescript-sdk",
-    "stargazers_count": 445,
+    "stargazers_count": 450,
     "open_issues_count": 1,
     "forks_count": 19
   },
   {
     "full_name": "brimdata/react-arborist",
-    "stargazers_count": 1420,
+    "stargazers_count": 1421,
     "open_issues_count": 12,
     "forks_count": 26
   },
@@ -73,21 +85,21 @@
   },
   {
     "full_name": "ruilisi/css-checker",
-    "stargazers_count": 526,
+    "stargazers_count": 527,
     "open_issues_count": 3,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "outline/outline",
-    "stargazers_count": 15663,
+    "stargazers_count": 15684,
     "open_issues_count": 99,
-    "forks_count": 1328
+    "forks_count": 1331
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 2792,
+    "stargazers_count": 2800,
     "open_issues_count": 8,
-    "forks_count": 704
+    "forks_count": 705
   },
   {
     "full_name": "yajinn/vue-product-zoomer2",
@@ -97,33 +109,33 @@
   },
   {
     "full_name": "Budibase/budibase",
-    "stargazers_count": 13687,
-    "open_issues_count": 526,
-    "forks_count": 740
+    "stargazers_count": 13753,
+    "open_issues_count": 538,
+    "forks_count": 741
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 6830,
-    "open_issues_count": 35,
-    "forks_count": 319
+    "stargazers_count": 6841,
+    "open_issues_count": 37,
+    "forks_count": 323
   },
   {
     "full_name": "emilkowalski/ui-snippets",
-    "stargazers_count": 1933,
+    "stargazers_count": 1934,
     "open_issues_count": 4,
     "forks_count": 143
   },
   {
     "full_name": "marcbouchenoire/marcbouchenoire.com",
     "stargazers_count": 28,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "AndrewStetsenko/tech-jobs-with-relocation",
-    "stargazers_count": 721,
+    "stargazers_count": 730,
     "open_issues_count": 2,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "krawaller/swordle",
@@ -133,15 +145,15 @@
   },
   {
     "full_name": "noya-app/studio721",
-    "stargazers_count": 234,
+    "stargazers_count": 236,
     "open_issues_count": 8,
     "forks_count": 33
   },
   {
     "full_name": "tradingview/lightweight-charts",
-    "stargazers_count": 5073,
-    "open_issues_count": 86,
-    "forks_count": 986
+    "stargazers_count": 5087,
+    "open_issues_count": 87,
+    "forks_count": 991
   },
   {
     "full_name": "dai-shi/react-apollo-github-api-infinite-scroll-example",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 5323,
-    "open_issues_count": 55,
+    "stargazers_count": 5361,
+    "open_issues_count": 59,
     "forks_count": 227
   },
   {
     "full_name": "jellydn/react-dapp",
     "stargazers_count": 40,
-    "open_issues_count": 11,
+    "open_issues_count": 4,
     "forks_count": 10
   },
   {
     "full_name": "argyleink/open-props",
-    "stargazers_count": 2080,
+    "stargazers_count": 2085,
     "open_issues_count": 30,
     "forks_count": 83
-  },
-  {
-    "full_name": "lit/lit",
-    "stargazers_count": 11717,
-    "open_issues_count": 314,
-    "forks_count": 595
-  },
-  {
-    "full_name": "craftzdog/craftzdog-homepage",
-    "stargazers_count": 1287,
-    "open_issues_count": 0,
-    "forks_count": 383
   }
 ]
